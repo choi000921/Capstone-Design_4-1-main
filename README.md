@@ -7,17 +7,7 @@
 - **기간**: 2025.06
 - **키워드**: LLM, 리뷰 분석, 우선순위(긴급도), 분류, 자동 응답, Streamlit 대시보드
 
-## 데모 이미지 (추가 업로드 필요)
-포트폴리오 용도로 **보고서 Fig1~Fig6 스크린샷**을 `docs/images/`에 아래 파일명으로 넣어주면 README에서 바로 보이게 구성해뒀어요.
-
-- `docs/images/01_main.png` — Fig1) 메인 화면
-- `docs/images/02_ai_reply.png` — Fig2) AI 답변 생성 시스템
-- `docs/images/03_top10.png` — Fig3) 긴급도 상위 리뷰 TOP10
-- `docs/images/04_weekday_category.png` — Fig4) 요일, 범주 통계 시각화
-- `docs/images/05_time_weekday.png` — Fig5) 시간대별, 요일별 통계량 시각화
-- `docs/images/06_advanced.png` — Fig6) 심화 통계량 시각화
-
-이미지 넣은 뒤 아래가 자동으로 표시됩니다.
+## 데모 이미지 
 
 ![Fig1) 메인 화면](docs/images/01_main.png)
 ![Fig2) AI 답변 생성 시스템](docs/images/02_ai_reply.png)
