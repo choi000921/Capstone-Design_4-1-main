@@ -93,6 +93,3 @@ streamlit run app.py
 - `docs/`: 문서/이미지 폴더
   - `docs/images/`: README용 스크린샷(직접 추가)
 - `.streamlit/`: Streamlit 설정/시크릿(로컬)
-
-## 문서
-- 최종 보고서(HWP)는 `docs/`로 옮겨 `final_report.hwp` 같은 영문 파일명으로 관리하는 걸 권장합니다.
